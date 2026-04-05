@@ -356,7 +356,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LWAUGWFF
 
 [Document19]
 DocumentPath=BAILEY-VIEW.PCBDwf
@@ -373,7 +373,11 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DKRBHWHT
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
