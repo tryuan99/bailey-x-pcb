@@ -53,6 +53,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=ADAR1000ACCZN.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJBSERXT
+
+[Document2]
 DocumentPath=ADAR7251WBCSZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -69,7 +86,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document2]
+[Document3]
+DocumentPath=ADAR1000ACCZN.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PJZFKZKQ
+
+[Document4]
 DocumentPath=ADAR7251WBCSZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLXKVXWY
 
-[Document3]
+[Document5]
 DocumentPath=BEAMFORMER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,7 +137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHUTAFUD
 
-[Document4]
+[Document6]
 DocumentPath=LNA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXNSHBIP
 
-[Document5]
+[Document7]
 DocumentPath=MIXER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFWOHPZD
 
-[Document6]
+[Document8]
 DocumentPath=IF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZBGDCGU
 
-[Document7]
+[Document9]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOXFRATN
 
-[Document8]
+[Document10]
 DocumentPath=OSC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPUXYEZM
 
-[Document9]
+[Document11]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILYYLVXR
 
-[Document10]
+[Document12]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRXMELIQ
 
-[Document11]
+[Document13]
 DocumentPath=LMX8410RGZT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=Titan.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBCEWIPP
 
-[Document13]
+[Document15]
 DocumentPath=LMX8410RGZT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWVTMZKV
 
-[Document14]
+[Document16]
 DocumentPath=Titan.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKHDAQVC
 
-[Document15]
+[Document17]
 DocumentPath=BAILEY.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document18]
 DocumentPath=bailey.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document19]
 DocumentPath=BAILEY.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVGPXOAE
 
-[Document18]
+[Document20]
 DocumentPath=BAILEY-STACKUP.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWAUGWFF
 
-[Document19]
+[Document21]
 DocumentPath=BAILEY-VIEW.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
