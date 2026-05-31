@@ -138,6 +138,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UHUTAFUD
 
 [Document6]
+DocumentPath=SPLITTER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCBXMZMU
+
+[Document7]
 DocumentPath=LNA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXNSHBIP
 
-[Document7]
+[Document8]
 DocumentPath=MIXER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFWOHPZD
 
-[Document8]
+[Document9]
 DocumentPath=IF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZBGDCGU
 
-[Document9]
+[Document10]
 DocumentPath=ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOXFRATN
 
-[Document10]
+[Document11]
 DocumentPath=OSC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPUXYEZM
 
-[Document11]
+[Document12]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -239,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILYYLVXR
 
-[Document12]
+[Document13]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRXMELIQ
 
-[Document13]
+[Document14]
 DocumentPath=LMX8410RGZT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=Titan.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBCEWIPP
 
-[Document15]
+[Document16]
 DocumentPath=LMX8410RGZT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,7 +324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWVTMZKV
 
-[Document16]
+[Document17]
 DocumentPath=Titan.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -324,7 +341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKHDAQVC
 
-[Document17]
+[Document18]
 DocumentPath=BAILEY.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=bailey.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=BAILEY.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVGPXOAE
 
-[Document20]
+[Document21]
 DocumentPath=BAILEY-STACKUP.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LWAUGWFF
 
-[Document21]
+[Document22]
 DocumentPath=BAILEY-VIEW.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
