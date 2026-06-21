@@ -431,182 +431,178 @@ DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for bailey-x\NC Drill\BAILEY.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GM
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for bailey-x\NC Drill\BAILEY.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for bailey-x\PCB 3D Print\BAILEY.png
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for bailey-x\BAILEY.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for bailey-x\Gerber\BAILEY.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for bailey-x\NC Drill\BAILEY.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for bailey-x\BOM\BOM-BAILEY.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\core_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\core_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\core_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\drill_plated_signal_layer_4-signal_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\prepreg_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\prepreg_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\signal_layer_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\signal_layer_2\features
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\signal_layer_3\features
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\signal_layer_4\features
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for bailey-x\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for bailey-x\Pick Place\Pick Place for BAILEY.txt
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for bailey-x\odb\steps\pcb\layers\drill_plated_signal_layer_4-signal_layer_1\tools
 DItemRevisionGUID=
 
@@ -1583,23 +1579,232 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-FullReplace=1
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Titan.SchLib
+ComponentDesignItemID0=CDSOD323-T03
+ComponentSymbolReference0=CDSOD323-T03
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Titan.SchLib
+ComponentDesignItemID1=CTL0805FRD1T
+ComponentSymbolReference1=CTL0805FRD1T
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Titan.SchLib
+ComponentDesignItemID2=SMAJ5.0A
+ComponentSymbolReference2=SMAJ5.0A
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Titan.SchLib
+ComponentDesignItemID3=SMAJ6.0A
+ComponentSymbolReference3=SMAJ6.0A
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
 DoGraphics=1
-DoParameters=1
+DoParameters=0
 DoModels=1
 AddParameters=0
 RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Breakdown Voltage
+ParameterUpdate0=1
+ParameterName1=Category
+ParameterUpdate1=1
+ParameterName2=China RoHS
+ParameterUpdate2=1
+ParameterName3=Clamping Voltage
+ParameterUpdate3=1
+ParameterName4=Comment
+ParameterUpdate4=1
+ParameterName5=Component Kind
+ParameterUpdate5=1
+ParameterName6=ComponentLink1Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink1URL
+ParameterUpdate7=1
+ParameterName8=ComponentLink2Description
+ParameterUpdate8=1
+ParameterName9=ComponentLink2URL
+ParameterUpdate9=1
+ParameterName10=ComponentLink3Description
+ParameterUpdate10=1
+ParameterName11=ComponentLink3URL
+ParameterUpdate11=1
+ParameterName12=ComponentLink4Description
+ParameterUpdate12=1
+ParameterName13=ComponentLink4URL
+ParameterUpdate13=1
+ParameterName14=ComponentLink5Description
+ParameterUpdate14=1
+ParameterName15=ComponentLink5URL
+ParameterUpdate15=1
+ParameterName16=ComponentLink6Description
+ParameterUpdate16=1
+ParameterName17=ComponentLink6URL
+ParameterUpdate17=1
+ParameterName18=ComponentLink7Description
+ParameterUpdate18=1
+ParameterName19=ComponentLink7URL
+ParameterUpdate19=1
+ParameterName20=ComponentLink8Description
+ParameterUpdate20=1
+ParameterName21=ComponentLink8URL
+ParameterUpdate21=1
+ParameterName22=ComponentLink9Description
+ParameterUpdate22=1
+ParameterName23=ComponentLink9URL
+ParameterUpdate23=1
+ParameterName24=Composition
+ParameterUpdate24=1
+ParameterName25=Contact Plating
+ParameterUpdate25=1
+ParameterName26=Country of Origin
+ParameterUpdate26=1
+ParameterName27=Current
+ParameterUpdate27=1
+ParameterName28=Depth
+ParameterUpdate28=1
+ParameterName29=Description
+ParameterUpdate29=1
+ParameterName30=Direction
+ParameterUpdate30=1
+ParameterName31=Element Configuration
+ParameterUpdate31=1
+ParameterName32=Export Control Classification Number (ECCN) Code
+ParameterUpdate32=1
+ParameterName33=Forward Voltage
+ParameterUpdate33=1
+ParameterName34=Harmonized Tariff Schedule (HTS) Code
+ParameterUpdate34=1
+ParameterName35=Height
+ParameterUpdate35=1
+ParameterName36=Introduction Date
+ParameterUpdate36=1
+ParameterName37=Lead Free
+ParameterUpdate37=1
+ParameterName38=Leakage Current
+ParameterUpdate38=1
+ParameterName39=Length
+ParameterUpdate39=1
+ParameterName40=Library Reference
+ParameterUpdate40=1
+ParameterName41=Lifecycle Status
+ParameterUpdate41=1
+ParameterName42=Manufacturer
+ParameterUpdate42=1
+ParameterName43=Manufacturer Part Number
+ParameterUpdate43=1
+ParameterName44=Max Breakdown Voltage
+ParameterUpdate44=1
+ParameterName45=Max Junction Temperature (Tj)
+ParameterUpdate45=1
+ParameterName46=Max Operating Temperature
+ParameterUpdate46=1
+ParameterName47=Max Power Dissipation
+ParameterUpdate47=1
+ParameterName48=Max Reverse Leakage Current
+ParameterUpdate48=1
+ParameterName49=Max Surge Current
+ParameterUpdate49=1
+ParameterName50=Maximum Clamping Voltage
+ParameterUpdate50=1
+ParameterName51=Min Breakdown Voltage
+ParameterUpdate51=1
+ParameterName52=Min Operating Temperature
+ParameterUpdate52=1
+ParameterName53=Mounting Technology
+ParameterUpdate53=1
+ParameterName54=Number of Channels
+ParameterUpdate54=1
+ParameterName55=Number of Elements
+ParameterUpdate55=1
+ParameterName56=Number of Terminals
+ParameterUpdate56=1
+ParameterName57=Number of Unidirectional Channels
+ParameterUpdate57=1
+ParameterName58=Operating Supply Voltage
+ParameterUpdate58=1
+ParameterName59=Package Size
+ParameterUpdate59=1
+ParameterName60=Packaging
+ParameterUpdate60=1
+ParameterName61=Peak Pulse Current
+ParameterUpdate61=1
+ParameterName62=Peak Pulse Power
+ParameterUpdate62=1
+ParameterName63=Peak Reverse Current
+ParameterUpdate63=1
+ParameterName64=Pins
+ParameterUpdate64=1
+ParameterName65=Polarity
+ParameterUpdate65=1
+ParameterName66=Power Dissipation
+ParameterUpdate66=1
+ParameterName67=Power Line Protection
+ParameterUpdate67=1
+ParameterName68=Power Rating
+ParameterUpdate68=1
+ParameterName69=Pricing
+ParameterUpdate69=1
+ParameterName70=Radiation Hardening
+ParameterUpdate70=1
+ParameterName71=REACH SVHC
+ParameterUpdate71=1
+ParameterName72=Reverse Breakdown Voltage
+ParameterUpdate72=1
+ParameterName73=Reverse Standoff Voltage
+ParameterUpdate73=1
+ParameterName74=Reverse Voltage
+ParameterUpdate74=1
+ParameterName75=RoHS
+ParameterUpdate75=1
+ParameterName76=Schedule B
+ParameterUpdate76=1
+ParameterName77=Stock
+ParameterUpdate77=1
+ParameterName78=Supplier
+ParameterUpdate78=1
+ParameterName79=Supplier Part Number
+ParameterUpdate79=1
+ParameterName80=Termination
+ParameterUpdate80=1
+ParameterName81=Test Current
+ParameterUpdate81=1
+ParameterName82=Value
+ParameterUpdate82=1
+ParameterName83=Voltage
+ParameterUpdate83=1
+ParameterName84=Voltage Rating (DC)
+ParameterUpdate84=1
+ParameterName85=Width
+ParameterUpdate85=1
+ParameterName86=Working Voltage
+ParameterUpdate86=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CDSOD323
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CTL0805FRD1T
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=SMAJ
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
